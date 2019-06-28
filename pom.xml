@@ -31,7 +31,7 @@
         <dependency>
             <groupId>org.wso2.transport.http</groupId>
             <artifactId>org.wso2.transport.http.netty</artifactId>
-            <version>6.0.247</version>
+            <version>6.0.296-SNAPSHOT</version>
         </dependency>
     </dependencies>
 

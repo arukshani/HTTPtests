@@ -29,7 +29,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>WSO2Http1Test</mainClass>
+                    <mainClass>WSO2Http2Server</mainClass>
                     <arguments>
                         <argument>${echo-server.port}</argument>
                     </arguments>
